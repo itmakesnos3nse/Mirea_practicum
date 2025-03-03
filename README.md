@@ -10,4 +10,7 @@
 
 Данные были взяты с сайта [cyberleninka.ru](https://cyberleninka.ru/article)
 
-Парсер лежит в файле [parsing.py](/parsing.py)
+Парсер лежит в файле [parsing.py](/parsing.py), первичная обработка данных в [reading.ipynb](/reading.ipynb)
+
+Для сбора данных были использованы библиотеки `requests` и `BeautifulSoup`
+
