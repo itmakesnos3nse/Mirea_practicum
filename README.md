@@ -10,3 +10,4 @@
 
 Данные были взяты с сайта [cyberleninka.ru](https://cyberleninka.ru/article)
 
+Парсер лежит в файле [parsing.py](/parsing.py)
