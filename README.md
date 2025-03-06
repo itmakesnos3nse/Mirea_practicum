@@ -15,4 +15,4 @@
 ## ℹ️Краткие описания файлов
 
 - [**`parsing.py`**](/parsing.py) - прарсер 
-- [**`reading.ipynb`**](/reading.ipynb) - первичная обработка данных 
+- [**`reading.ipynb`**](https://nbviewer.org/github/itmakesnos3nse/Mirea_practicum/blob/main/reading.ipynb) - первичная обработка данных 
